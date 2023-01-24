@@ -20,7 +20,7 @@ body{
 }
 
 #top-blue-box{
-    background-color: #2BC4D1ff;;
+    background-color: #2BC4D1ff;
     grid-row: 1/2;
     grid-column: 2/4;
 }
@@ -62,7 +62,7 @@ body{
 }
 
 #bot-blue-box{
-    background-color: #2BC4D1ff;;
+    background-color: #2BC4D1ff;
     grid-row: 4/5;
     grid-column: 4/5;
 }
